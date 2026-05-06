@@ -53,13 +53,9 @@ The project combines SQL analytics with Power BI visualization to support fraud 
 ## Dashboard Screenshots
 
 ### Fraud Overview Dashboard
-![Fraud Overview](Images/dashboard_overview.png)
 
-### Fraud Category Analysis
-![Fraud Category Analysis](Images/category_analysis.png)
 
-### Geographic Fraud Distribution
-![Geographic Analysis](Images/geographic_analysis.png)
+### Fraud Risk Analysis
 
 ---
 
