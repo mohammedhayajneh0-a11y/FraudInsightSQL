@@ -13,17 +13,6 @@ The project combines SQL analysis with Power BI dashboards to support fraud inve
 - Explore fraud distribution across categories, demographics, and locations
 - Build reusable SQL views for reporting and dashboarding
 - Visualize fraud insights using Power BI
-
----
-
-## Dashboard Screenshots
-
-### Fraud Overview Dashboard
-![Fraud Overview](Images/fraud_overview.png)
-
-### Fraud Risk Analysis Dashboard
-![Fraud Risk Analysis](Images/fraud_risk_analysis.png)
-
 ---
 
 ## Key Insights
